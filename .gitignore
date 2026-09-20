@@ -2,3 +2,6 @@
 .neon
 .env.local
 node_modules/
+.venv/
+.env
+__pycache__/
